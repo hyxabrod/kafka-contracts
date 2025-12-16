@@ -12,4 +12,3 @@ plugins {
 }
 
 rootProject.name = "kafka-contracts"
-include("lib")
